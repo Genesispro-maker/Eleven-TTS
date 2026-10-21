@@ -15,7 +15,7 @@ A simple text-to-speech app built with React and TypeScript using the ElevenLabs
 - React
 - TypeScript
 - ElevenLabs Text-to-Speech API
-- Noise.js
+- Noise.js - https://github.com/Genesispro-maker/Noisejs
 
 ## Getting Started
 
